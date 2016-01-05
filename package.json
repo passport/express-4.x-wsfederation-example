@@ -1,7 +1,7 @@
 {
-  "name": "express-4.x-saml2-example",
+  "name": "express-4.x-wsfederation-example",
   "version": "0.0.0",
-  "description": "Express 4.x app using Passport for authentication via SAML 2.0.",
+  "description": "Express 4.x app using Passport for authentication via WS-Federation.",
   "keywords": [
     "example",
     "express",
@@ -9,13 +9,13 @@
   ],
   "author": "Jared Hanson",
   "license": "Unlicense",
-  "homepage": "https://github.com/passport/express-4.x-saml2-example",
+  "homepage": "https://github.com/passport/express-4.x-wsfederation-example",
   "repository": {
     "type": "git",
-    "url": "git://github.com/passport/express-4.x-saml2-example.git"
+    "url": "git://github.com/passport/express-4.x-wsfederation-example.git"
   },
   "bugs": {
-    "url": "https://github.com/passport/express-4.x-saml2-example/issues"
+    "url": "https://github.com/passport/express-4.x-wsfederation-example/issues"
   },
   "dependencies": {
     "body-parser": "^1.13.2",
